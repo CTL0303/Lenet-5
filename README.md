@@ -1,2 +1,2 @@
-# Lenet-5
-use python
+# Lenet-5 in python
+
